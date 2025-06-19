@@ -1,0 +1,6 @@
+baseURL = "/"
+languageCode = "pt-br"
+title = "Mamae Bot"
+theme = "ananke"
+[params]
+  author = "Mamae Bot"

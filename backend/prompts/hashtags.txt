@@ -1,0 +1,1 @@
+Crie 5 hashtags relevantes para o seguinte texto: {texto}
